@@ -1,0 +1,40 @@
+.video-background{
+    position: fixed;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+    top: 0;
+    left:  0;
+    object-fit: cover;
+
+}
+
+.overlay{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    
+    
+}
+.overlay button{
+    background: none;
+    border: 1px solid white;
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 10px 40px;
+    cursor: pointer;
+    color: white;
+    
+
+}
+.overlay button:hover{
+    background: white;
+    color: black;
+    transition: all 0.3s;
+
+
+}
