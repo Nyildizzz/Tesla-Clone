@@ -1,6 +1,6 @@
 # Tesla Clone Project - React
 
-![Tesla Clone](https://link-to-your-image)
+![Tesla Clone](https://storage.googleapis.com/shopify-customerio/tools/image_attachment/image/custom_resized_3aea3fd9-496c-4cc1-b734-2d91776c9594.png)
 
 ## Table of Contents
 
@@ -31,12 +31,10 @@ The project leverages the following technologies and libraries:
 
 - React
 - React Router
-- Redux (optional, depending on project complexity)
 - HTML5
 - CSS3 (with Flexbox or Grid for layout)
-- Axios (for API interactions)
-- Webpack (for bundling)
-- Babel (for transpiling)
+  
+
 
 ## Getting Started
 
